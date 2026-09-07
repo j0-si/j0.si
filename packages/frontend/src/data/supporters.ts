@@ -5,8 +5,8 @@ const supporters: Supporter[] = [
     name: "kicky1618"
   },
   {
-    name: "Lunar / 9a.si",
-    url: "https://9a.si"
+    name: "Lunar / 9a",
+    url: "https://9a-si.pages.dev"
   },
 ]
 

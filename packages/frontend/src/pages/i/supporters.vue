@@ -6,7 +6,7 @@ import supporters from '~/data/supporters';
   <main>
     <h1>Supporters</h1>
     <p>
-      <small class="text-gray-400">even a dollar makes me happy.</small>
+      <small class="text-gray-400">here are the people supporting j0.si!</small>
     </p>
     <ul class="supporter-list">
       <li v-for="supporter in supporters">
